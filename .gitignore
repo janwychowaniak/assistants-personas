@@ -1,0 +1,9 @@
+# Environments
+.env
+.envrc
+env/
+ENV/
+env.bak/
+
+# Aider   
+.aider*
