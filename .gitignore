@@ -7,3 +7,9 @@ env.bak/
 
 # Aider   
 .aider*
+
+# Claude Code - personal/session files only
+.claude/settings.local.json
+.claude/*.log
+.claude/logs/
+.claude/cache/
